@@ -2,10 +2,6 @@
 echo $0
 # Quels shells sont disponibles ?
 cat /etc/shells
-Applications au démarrage
-
-Vous pouvez définir quelles applications devraient être lancées à la connexion, en plus des applications de démarrage par défaut configurées sur le système.
-
-    Utilisez le Tableau de bord pour trouver et ouvrir Applications au démarrage. Vous pouvez également appuyer sur Alt+F2 et exécuter la commande gnome-session-properties.
-
-    Appuyez sur Ajouter et entrez la commande à exécuter à la connexion (le nom et le commentaire sont facultatifs). Par exemple, pour que Firefox démarre automatiquement, il suffit de saisir firefox dans le champ Commande et de confirmer avec Ajouter.
+# Applications au démarrage
+# Alt+F2 et exécuter la commande 
+  gnome-session-properties
