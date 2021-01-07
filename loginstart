@@ -1,0 +1,4 @@
+# Quel shell est utilisé actuellement ?
+echo $0
+# Quels shells sont disponibles ?
+cat /etc/shells
